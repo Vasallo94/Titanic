@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enriquebook/Data_Analysis/Titanic/mlruns/976382581665923863/2ea1e6a34a03451986454d3d97f30b8e/artifacts
+end_time: 1707161540007
+entry_point_name: ''
+experiment_id: '976382581665923863'
+lifecycle_stage: active
+run_id: 2ea1e6a34a03451986454d3d97f30b8e
+run_name: AdaBoost Regressor
+run_uuid: 2ea1e6a34a03451986454d3d97f30b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707161539987
+status: 3
+tags: []
+user_id: enriquebook

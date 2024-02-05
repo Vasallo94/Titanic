@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enriquebook/Data_Analysis/Titanic/mlruns/976382581665923863/ff00841eefa346488ac55ccb2b28603b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '976382581665923863'
+lifecycle_stage: active
+run_id: ff00841eefa346488ac55ccb2b28603b
+run_name: Session Initialized c3a6
+run_uuid: ff00841eefa346488ac55ccb2b28603b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707161529601
+status: 1
+tags: []
+user_id: enriquebook

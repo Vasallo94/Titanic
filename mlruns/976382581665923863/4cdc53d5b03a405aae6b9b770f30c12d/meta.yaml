@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enriquebook/Data_Analysis/Titanic/mlruns/976382581665923863/4cdc53d5b03a405aae6b9b770f30c12d/artifacts
+end_time: 1707161540622
+entry_point_name: ''
+experiment_id: '976382581665923863'
+lifecycle_stage: active
+run_id: 4cdc53d5b03a405aae6b9b770f30c12d
+run_name: Least Angle Regression
+run_uuid: 4cdc53d5b03a405aae6b9b770f30c12d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707161540599
+status: 3
+tags: []
+user_id: enriquebook

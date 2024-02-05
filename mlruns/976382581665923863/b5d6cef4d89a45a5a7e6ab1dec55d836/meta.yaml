@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/enriquebook/Data_Analysis/Titanic/mlruns/976382581665923863/b5d6cef4d89a45a5a7e6ab1dec55d836/artifacts
+end_time: 1707161541136
+entry_point_name: ''
+experiment_id: '976382581665923863'
+lifecycle_stage: active
+run_id: b5d6cef4d89a45a5a7e6ab1dec55d836
+run_name: Lasso Regression
+run_uuid: b5d6cef4d89a45a5a7e6ab1dec55d836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707161541114
+status: 3
+tags: []
+user_id: enriquebook
