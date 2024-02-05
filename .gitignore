@@ -1,4 +1,4 @@
-/catboost_info
-./mlruns
-logs.logs
+/catboost_info/
+/mlruns/
+logs.log
 ./.ipynb_checkpoints
